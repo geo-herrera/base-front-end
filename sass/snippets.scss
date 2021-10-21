@@ -1,0 +1,4 @@
+// select everything except the last child
+.row:not(:last-child) {
+    // apply style
+}
